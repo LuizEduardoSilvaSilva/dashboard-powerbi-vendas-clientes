@@ -37,3 +37,8 @@ O dashboard inclui:
 
 🌟 Contribuições
 Feedbacks e sugestões são bem-vindos! Entre em contato para colaborar no aprimoramento do projeto.
+
+![image](https://github.com/user-attachments/assets/94a3f2b1-4c9e-49ca-bcb2-668571d6ae6a)
+
+![image](https://github.com/user-attachments/assets/38f4c5c2-67bc-4f38-9e0e-522218713ef7)
+
